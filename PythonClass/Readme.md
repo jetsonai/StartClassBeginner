@@ -1,5 +1,7 @@
 # AI 개발자를 위한 파이썬 기초
 
+> 코딩이 처음이어도 괜찮아요. 카페 키오스크 하나를 직접 만들며 파이썬 기초부터 데이터 분석, AI까지 한 걸음씩 배웁니다.
+
 무인 키오스크 하나를 파이썬으로 조금씩 만들어 가며 배우는 입문 강좌의 실습 노트입니다.
 
 ## 사용 방법
@@ -16,3 +18,5 @@
 | --- | --- | --- | --- |
 | 1강 | 파이썬 시작하기 및 핵심 자료구조 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jetsonai/StartClassBeginner/blob/main/PythonClass/python_kiosk_01.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jetsonai/StartClassBeginner/blob/main/PythonClass/python_kiosk_01_answer.ipynb) |
 | 2강-1 | 조건문과 반복문 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jetsonai/StartClassBeginner/blob/main/PythonClass/python_kiosk_02_1.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jetsonai/StartClassBeginner/blob/main/PythonClass/python_kiosk_02_1_answer.ipynb) |
+| 2강-2 | 함수 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jetsonai/StartClassBeginner/blob/main/PythonClass/python_kiosk_02_2.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jetsonai/StartClassBeginner/blob/main/PythonClass/python_kiosk_02_2_answer.ipynb) |
+| 3강 | 고급 함수 기법 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jetsonai/StartClassBeginner/blob/main/PythonClass/python_kiosk_03.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jetsonai/StartClassBeginner/blob/main/PythonClass/python_kiosk_03_answer.ipynb) |
