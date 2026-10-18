@@ -8,7 +8,7 @@
 
 1. 아래 표에서 <b>Open in Colab</b> 배지를 누르면 Colab에서 바로 열립니다. 설치할 것은 없어요.
 2. 열리면 먼저 <b>[파일] → [Drive에 사본 저장]</b>을 누르세요. 그래야 수정한 내용이 내 드라이브에 저장됩니다.
-3. 딥러닝 실습(4강~)은 <b>[런타임] → [런타임 유형 변경] → T4 GPU</b>를 켜고 시작하세요. 방법은 1강에서 안내합니다.
+3. 딥러닝 실습(4강~)은 <b>[런타임] → [런타임 유형 변경] → T4 GPU</b>를 켜고 시작하세요. 방법은 4강에서 안내합니다.
 4. <b>실습 노트</b>는 영상을 보며 직접 코드를 입력하는 노트예요. ✏️ 표시가 있는 칸에 입력하세요.
 5. 막히거나 복습할 때는 <b>정답 노트</b>를 열어 보세요.
 6. 셀은 위에서부터 순서대로 실행하세요. 연결이 끊겼다면 처음부터 다시 실행하면 됩니다.
@@ -17,8 +17,8 @@
 
 | 강의 | 주제 | 실습 노트 | 정답 노트 |
 | --- | --- | --- | --- |
-| 1강 | 인공지능의 역사와 코랩 시작하기 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jetsonai/StartClassBeginner/blob/main/MachineLearning/ml_kiosk_01.ipynb) | 실행만 하는 노트 |
-| 2강 | 머신러닝 데이터 기초 (NumPy · Pandas · 그래프) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jetsonai/StartClassBeginner/blob/main/MachineLearning/ml_kiosk_02.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jetsonai/StartClassBeginner/blob/main/MachineLearning/ml_kiosk_02_answer.ipynb) |
+| 1강 | 인공지능의 역사와 코랩 시작하기 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jetsonai/StartClassBeginner/blob/main/MLClass/ml_kiosk_01.ipynb) | 실행만 하는 노트 |
+| 2강 | 머신러닝 데이터 기초 (NumPy · Pandas · 그래프) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jetsonai/StartClassBeginner/blob/main/MLClass/ml_kiosk_02.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jetsonai/StartClassBeginner/blob/main/MLClass/ml_kiosk_02_answer.ipynb) |
 | 3강 | 머신러닝 (scikit-learn) | 준비 중 | 준비 중 |
 | 4강 | 신경망 (PyTorch) | 준비 중 | 준비 중 |
 | 5강 | CNN (이미지 · YOLO) | 준비 중 | 준비 중 |
